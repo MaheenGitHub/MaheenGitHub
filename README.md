@@ -1,6 +1,5 @@
 # Hi 👋, I’m **Maheen Fatima**
-🎓 BSIT Student • PUCIT (Batch 2022) • Curious coder • Building cool projects
-# 🛠️ Skills
+🎓 BSIT Student • PUCIT (Batch 2022) • Curious coder • Building cool projects# 🛠️ Skills
 Python • C++ • C • Machine Learning 
 # 🌱 Currently Learning
 Deep learning & software engineering
