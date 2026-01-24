@@ -1,10 +1,10 @@
 # Hi 👋, I’m **Maheen Fatima**  
 
-🎓 BSIT Student • PUCIT (Batch 2022) • Curious coder 
+🎓 BSIT Student  • PUCIT (Batch 2022)  • Curious coder 
 
-**🛠️ Skills:** Python • C++ • C • Machine Learning
+**🛠️ Skills:**  Python  • C++  • C  • Machine Learning
 
-**🌱 Currently Learning:** Deep Learning & Cyber Security
+**🌱 Currently Learning:**  Deep Learning & Cyber Security
 
 **📌 Highlights**
 - Exploring **Human Activity Recognition (HAR)** and applied ML projects  
