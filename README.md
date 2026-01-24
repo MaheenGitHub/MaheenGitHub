@@ -6,7 +6,7 @@
 
 **🌱 Currently Learning:** Deep Learning & Cyber Security
 
-## 📌 Highlights
+**📌 Highlights**
 - Exploring **Human Activity Recognition (HAR)** and applied ML projects  
 - Started sharing my learning journey on **Hashnode**:
   - [Maheen’s AI Lab](https://maheen-ai.hashnode.dev) – AI & ML focused  
@@ -16,8 +16,8 @@
 
 
 **📫 Connect with me:** 
-[LinkedIn](https://www.linkedin.com/in/maheenfatimaa)
-[View my Upwork Profile](https://www.upwork.com/freelancers/~017a150168182cf524?mp_source=share)
+- [LinkedIn](https://www.linkedin.com/in/maheenfatimaa)
+- [View my Upwork Profile](https://www.upwork.com/freelancers/~017a150168182cf524?mp_source=share)
 
 
 
