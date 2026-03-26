@@ -2,6 +2,8 @@
 
 🎓 BSIT Student  • PUCIT (Batch 2022)  • Curious coder 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=MaheenGitHub)](https://git.io/streak-stats)
+
 **🛠️ Skills:**  Python  • C++  • C  • Machine Learning
 
 **🌱 Currently Learning:**  Deep Learning & Cyber Security
